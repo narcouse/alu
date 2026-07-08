@@ -1,0 +1,6 @@
+{
+  "name": "Aluminium Atlas Maroc",
+  "description": "Menuiserie Aluminium, Verre Trempé & Façades Modernes à Marrakech",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
